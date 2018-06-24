@@ -8,5 +8,7 @@ visdom
 2. exec run.py to train GANs
 3. trained models are saved in result/
 4. have fun creating your own pokemons
+## demo of training procedure
+![](demo.gif)
 ## result:
 ![](res.png)
